@@ -164,3 +164,22 @@
 | You(pl) are doctors. | Ni är doktorer.      |
 | They are doctors.    | De är doktorer.      |
 | We are students.     | Vi är student.       |
+
+* to want = att vilja
+
+| EN                                               | SV                                                  |
+| ------------------------------------------------ | --------------------------------------------------- |
+| I want                                           | Jag vill                                            |
+| I want to have                                   | Jag vill ha                                         |
+| Do you want to have a banana?                    | Vill du ha en banan?                                |
+| Are you a professor?<br />Yes, I am a professor. | Är du en professor?<br />Ja, jag är en professor. |
+| We want to inspire!                              | Vi vill inspirera!                                  |
+
+* to be able to = att kunna
+
+| EN                           | SV                   |
+| ---------------------------- | -------------------- |
+| We can.                      | Vi kan               |
+| Can you speak Swedish?       | Kan du tala svenska? |
+| Do you want to have a train? | Vill du ha ett tåg? |
+| Can we eat now?              | Kan vi äta nu?      |
