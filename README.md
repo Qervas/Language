@@ -2,9 +2,9 @@
 
 This is a noting repository for learning Swedish.
 
-| Level | Chapter                                  |
-| ----- | ---------------------------------------- |
-| A1    | [Chapter1](./Chap1.md), [Chapter2](./Chap2.md) |
+| Level | Chapter                                                |
+| ----- | ------------------------------------------------------ |
+| A1    | [Chap1](./Chap1.md), [Chap2](./Chap2.md), [Chap3](./Chap3.md)  |
 
 ![FLAG](https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png)
 
