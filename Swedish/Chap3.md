@@ -216,7 +216,6 @@
 | I haven't read it.              | Jag har inte läst den.             |
 | She is an inspriation.          | Hon är en inspiration.             |
 
-
 ## Reflexive pronoun
 
 | EN         | SV  | pronounce |
@@ -226,6 +225,6 @@
 | himself    | sig | sej       |
 | herself    | sig | sej       |
 | itself     | sig | sej       |
-| ourselves  | oss |           |
-| yourselves | er  |           |
+| ourselves  | oss | /         |
+| yourselves | er  | /         |
 | themselves | sig | sej       |
