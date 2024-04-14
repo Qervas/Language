@@ -10,4 +10,4 @@ This is a noting repository for learning Language.
 
 ## Credit
 
-* [Swedish A1 Lesson](https://www.youtube.com/playlist?list=PL8InAC1Dxcu8ikBO8RbPbYFR1RhS9iGPc)
+* [Swedish A1 Lesson](https://www.youtube.com/playlist?list=PL8InAC1Dxcu8ikBO8RbPbYFR1RhS9iGPc) and Swedishpod101
